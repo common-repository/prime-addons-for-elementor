@@ -1,0 +1,7 @@
+== Credits ==
+
+* Countdown http://hilios.github.io/jQuery.countdown/ [MIT](https://opensource.org/licenses/MIT)
+* Infinite Scroll https://infinite-scroll.com [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+* Isotope https://isotope.metafizzy.co [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+* Typed https://github.com/mattboldt/typed.js [MIT](https://opensource.org/licenses/MIT)
+* VelocityJS http://velocityjs.org/ [MIT](https://opensource.org/licenses/MIT)

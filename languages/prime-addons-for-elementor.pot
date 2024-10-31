@@ -1,0 +1,2313 @@
+# Copyright (C) 2024 Nilambar Sharma
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Prime Addons for Elementor 2.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/prime-addons-for-elementor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: prime-addons-for-elementor\n"
+
+#. Plugin Name of the plugin
+#: prime-addons-for-elementor.php
+#: prime-addons-for-elementor.php:136
+#: prime-addons-for-elementor.php:156
+#: prime-addons-for-elementor.php:178
+#: prime-addons-for-elementor.php:197
+msgid "Prime Addons for Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: prime-addons-for-elementor.php
+msgid "https://www.nilambar.net/plugins/prime-addons-for-elementor/"
+msgstr ""
+
+#. Description of the plugin
+#: prime-addons-for-elementor.php
+msgid "Prime Addons for Elementor features 25+ beautiful and highly customizable Elementor widgets. Each widget comes with tons of easy-to-use options that will allow you to build professional Elementor websites in a few clicks with no coding required."
+msgstr ""
+
+#. Author of the plugin
+#: prime-addons-for-elementor.php
+msgid "Nilambar Sharma"
+msgstr ""
+
+#. Author URI of the plugin
+#: prime-addons-for-elementor.php
+msgid "https://www.nilambar.net/"
+msgstr ""
+
+#: includes/controls/opacity.php:26
+#: includes/controls/opacity.php:34
+msgid "Opacity"
+msgstr ""
+
+#: includes/controls/opacity.php:36
+msgid "Value should be between 0 and 1"
+msgstr ""
+
+#: includes/controls/parallax.php:18
+msgid "Parallax"
+msgstr ""
+
+#: includes/controls/parallax.php:26
+msgid "Parallax Item"
+msgstr ""
+
+#: includes/controls/parallax.php:29
+#: includes/elements/traits/controls.php:184
+#: includes/elements/traits/controls.php:196
+#: includes/elements/traits/controls.php:209
+#: includes/elements/traits/controls.php:222
+#: includes/elements/traits/controls.php:252
+#: includes/elements/traits/controls.php:295
+#: includes/elements/traits/controls.php:308
+#: includes/elements/traits/controls.php:321
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:83
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:94
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:186
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:207
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:186
+#: includes/elements/widgets/class-post-carousel-widget.php:82
+#: includes/elements/widgets/class-post-carousel-widget.php:93
+#: includes/elements/widgets/class-post-carousel-widget.php:155
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:163
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:174
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:188
+msgid "On"
+msgstr ""
+
+#: includes/controls/parallax.php:30
+#: includes/elements/traits/controls.php:185
+#: includes/elements/traits/controls.php:197
+#: includes/elements/traits/controls.php:210
+#: includes/elements/traits/controls.php:223
+#: includes/elements/traits/controls.php:253
+#: includes/elements/traits/controls.php:296
+#: includes/elements/traits/controls.php:309
+#: includes/elements/traits/controls.php:322
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:84
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:95
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:187
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:208
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:187
+#: includes/elements/widgets/class-post-carousel-widget.php:83
+#: includes/elements/widgets/class-post-carousel-widget.php:94
+#: includes/elements/widgets/class-post-carousel-widget.php:156
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:164
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:175
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:189
+msgid "Off"
+msgstr ""
+
+#: includes/controls/parallax.php:38
+msgid "Parallax Axis"
+msgstr ""
+
+#: includes/controls/parallax.php:41
+msgid "Y axis"
+msgstr ""
+
+#: includes/controls/parallax.php:42
+msgid "X axis"
+msgstr ""
+
+#: includes/controls/parallax.php:53
+msgid "Momentum"
+msgstr ""
+
+#: includes/controls/parallax.php:55
+msgid "Value should be between -1 and +1"
+msgstr ""
+
+#: includes/elements/class-elements.php:140
+msgid "Prime Addons"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:49
+#: includes/global-blocks/class-global-blocks-widget.php:111
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:262
+#: includes/elements/widgets/class-blog-standard-widget.php:249
+#: includes/elements/widgets/class-picture-slider-widget.php:86
+#: includes/elements/widgets/class-picture-slider-widget.php:162
+#: includes/elements/widgets/class-post-slider-widget.php:195
+msgid "Left"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:266
+#: includes/elements/widgets/class-picture-slider-widget.php:145
+#: includes/elements/widgets/class-picture-slider-widget.php:163
+#: includes/elements/widgets/class-post-slider-widget.php:199
+#: includes/elements/widgets/class-post-slider-widget.php:259
+msgid "Center"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:270
+#: includes/elements/widgets/class-blog-standard-widget.php:257
+#: includes/elements/widgets/class-picture-slider-widget.php:87
+#: includes/elements/widgets/class-picture-slider-widget.php:164
+#: includes/elements/widgets/class-post-slider-widget.php:203
+msgid "Right"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:285
+#: includes/elements/traits/controls.php:70
+msgid "Date"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:286
+#: includes/elements/traits/controls.php:71
+msgid "Random"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:287
+#: includes/elements/traits/controls.php:72
+#: includes/elements/widgets/class-blog-grid-widget.php:228
+#: includes/elements/widgets/class-blog-masonry-widget.php:230
+#: includes/elements/widgets/class-blog-standard-widget.php:333
+#: includes/elements/widgets/class-countdown-widget.php:102
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:323
+#: includes/elements/widgets/class-edd-products-widget.php:374
+#: includes/elements/widgets/class-flip-box-widget.php:116
+#: includes/elements/widgets/class-flip-box-widget.php:178
+#: includes/elements/widgets/class-interactive-banner-widget.php:83
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:326
+#: includes/elements/widgets/class-lp-courses-widget.php:368
+#: includes/elements/widgets/class-picture-carousel-widget.php:85
+#: includes/elements/widgets/class-picture-carousel-widget.php:87
+#: includes/elements/widgets/class-picture-carousel-widget.php:319
+#: includes/elements/widgets/class-picture-slider-widget.php:95
+#: includes/elements/widgets/class-picture-slider-widget.php:97
+#: includes/elements/widgets/class-picture-slider-widget.php:230
+#: includes/elements/widgets/class-post-carousel-widget.php:322
+#: includes/elements/widgets/class-post-slider-widget.php:377
+#: includes/elements/widgets/class-price-table-widget.php:223
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:292
+#: includes/elements/widgets/class-wedocs-archive-widget.php:155
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:339
+#: includes/elements/widgets/class-woo-products-widget.php:411
+msgid "Title"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:300
+#: includes/elements/traits/controls.php:84
+msgid "Ascending"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:301
+#: includes/elements/traits/controls.php:85
+msgid "Descending"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:314
+msgid "1 Column"
+msgstr ""
+
+#. translators: %d: columns
+#: includes/elements/helpers/class-utils.php:316
+#: includes/elements/helpers/class-utils.php:318
+#: includes/elements/helpers/class-utils.php:320
+msgid "%d Columns"
+msgstr ""
+
+#: includes/elements/helpers/class-utils.php:565
+msgid "Full"
+msgstr ""
+
+#: includes/elements/traits/controls.php:25
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:106
+#: includes/elements/widgets/class-edd-products-widget.php:129
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:106
+#: includes/elements/widgets/class-lp-courses-widget.php:129
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:119
+#: includes/elements/widgets/class-woo-products-widget.php:167
+msgid "Query"
+msgstr ""
+
+#: includes/elements/traits/controls.php:32
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:114
+#: includes/elements/widgets/class-edd-products-widget.php:137
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:114
+#: includes/elements/widgets/class-lp-courses-widget.php:137
+#: includes/elements/widgets/class-post-carousel-widget.php:413
+#: includes/elements/widgets/class-post-slider-widget.php:293
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:127
+#: includes/elements/widgets/class-woo-products-widget.php:175
+msgid "Categories"
+msgstr ""
+
+#: includes/elements/traits/controls.php:43
+msgid "Tags"
+msgstr ""
+
+#: includes/elements/traits/controls.php:54
+msgid "Exclude"
+msgstr ""
+
+#: includes/elements/traits/controls.php:66
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:126
+#: includes/elements/widgets/class-edd-products-widget.php:148
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:125
+#: includes/elements/widgets/class-lp-courses-widget.php:148
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:138
+#: includes/elements/widgets/class-woo-products-widget.php:186
+msgid "Order By"
+msgstr ""
+
+#: includes/elements/traits/controls.php:80
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:135
+#: includes/elements/widgets/class-edd-products-widget.php:158
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:135
+#: includes/elements/widgets/class-lp-courses-widget.php:158
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:148
+#: includes/elements/widgets/class-woo-products-widget.php:196
+msgid "Order"
+msgstr ""
+
+#: includes/elements/traits/controls.php:107
+msgid "Carousel Settings"
+msgstr ""
+
+#: includes/elements/traits/controls.php:115
+#: includes/elements/widgets/class-blog-grid-widget.php:125
+#: includes/elements/widgets/class-blog-masonry-widget.php:161
+#: includes/elements/widgets/class-edd-products-widget.php:192
+#: includes/elements/widgets/class-lp-courses-widget.php:192
+#: includes/elements/widgets/class-wedocs-archive-widget.php:86
+#: includes/elements/widgets/class-woo-products-widget.php:230
+msgid "Columns"
+msgstr ""
+
+#: includes/elements/traits/controls.php:127
+#: includes/elements/widgets/class-blog-grid-widget.php:137
+#: includes/elements/widgets/class-blog-masonry-widget.php:173
+#: includes/elements/widgets/class-edd-products-widget.php:204
+#: includes/elements/widgets/class-edd-products-widget.php:252
+#: includes/elements/widgets/class-lp-courses-widget.php:204
+#: includes/elements/widgets/class-lp-courses-widget.php:246
+#: includes/elements/widgets/class-wedocs-archive-widget.php:98
+#: includes/elements/widgets/class-woo-products-widget.php:242
+#: includes/elements/widgets/class-woo-products-widget.php:290
+msgid "Column Gap"
+msgstr ""
+
+#: includes/elements/traits/controls.php:159
+#: includes/elements/widgets/class-blog-grid-widget.php:192
+#: includes/elements/widgets/class-blog-standard-widget.php:308
+#: includes/elements/widgets/class-edd-products-widget.php:337
+#: includes/elements/widgets/class-lp-courses-widget.php:331
+#: includes/elements/widgets/class-woo-products-widget.php:375
+msgid "Thumbnail Height"
+msgstr ""
+
+#: includes/elements/traits/controls.php:164
+msgid "You can adjust the thumbnail height for different devices. "
+msgstr ""
+
+#: includes/elements/traits/controls.php:182
+#: includes/elements/traits/controls.php:250
+msgid "Autoplay"
+msgstr ""
+
+#: includes/elements/traits/controls.php:194
+#: includes/elements/traits/controls.php:293
+msgid "Show Navigation"
+msgstr ""
+
+#: includes/elements/traits/controls.php:207
+#: includes/elements/traits/controls.php:305
+msgid "Navigation Visible onHover"
+msgstr ""
+
+#: includes/elements/traits/controls.php:220
+#: includes/elements/traits/controls.php:319
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/elements/traits/controls.php:243
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/elements/traits/controls.php:261
+msgid "Slider Height"
+msgstr ""
+
+#: includes/elements/traits/controls.php:341
+msgid "Slider Navigation"
+msgstr ""
+
+#: includes/elements/traits/controls.php:360
+#: includes/elements/traits/controls.php:479
+#: includes/elements/traits/controls.php:595
+#: includes/elements/traits/controls.php:714
+#: includes/elements/widgets/class-blog-grid-widget.php:238
+#: includes/elements/widgets/class-blog-grid-widget.php:328
+#: includes/elements/widgets/class-blog-grid-widget.php:422
+#: includes/elements/widgets/class-blog-grid-widget.php:595
+#: includes/elements/widgets/class-blog-masonry-widget.php:240
+#: includes/elements/widgets/class-blog-masonry-widget.php:330
+#: includes/elements/widgets/class-blog-masonry-widget.php:445
+#: includes/elements/widgets/class-blog-masonry-widget.php:661
+#: includes/elements/widgets/class-blog-standard-widget.php:343
+#: includes/elements/widgets/class-blog-standard-widget.php:451
+#: includes/elements/widgets/class-blog-standard-widget.php:683
+#: includes/elements/widgets/class-blog-standard-widget.php:786
+#: includes/elements/widgets/class-contact-form-7-widget.php:130
+#: includes/elements/widgets/class-contact-form-7-widget.php:284
+#: includes/elements/widgets/class-edd-cart-button-widget.php:110
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:333
+#: includes/elements/widgets/class-edd-products-widget.php:384
+#: includes/elements/widgets/class-edd-products-widget.php:561
+#: includes/elements/widgets/class-edd-search-widget.php:85
+#: includes/elements/widgets/class-edd-search-widget.php:217
+#: includes/elements/widgets/class-flip-box-widget.php:502
+#: includes/elements/widgets/class-interactive-banner-widget.php:135
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:336
+#: includes/elements/widgets/class-lp-courses-widget.php:378
+#: includes/elements/widgets/class-lp-courses-widget.php:601
+#: includes/elements/widgets/class-picture-carousel-widget.php:329
+#: includes/elements/widgets/class-picture-slider-widget.php:298
+#: includes/elements/widgets/class-post-carousel-widget.php:332
+#: includes/elements/widgets/class-post-carousel-widget.php:426
+#: includes/elements/widgets/class-post-slider-widget.php:136
+#: includes/elements/widgets/class-post-slider-widget.php:306
+#: includes/elements/widgets/class-post-slider-widget.php:387
+#: includes/elements/widgets/class-price-table-widget.php:406
+#: includes/elements/widgets/class-wedocs-archive-widget.php:235
+#: includes/elements/widgets/class-wedocs-archive-widget.php:305
+#: includes/elements/widgets/class-wedocs-search-widget.php:96
+#: includes/elements/widgets/class-wedocs-search-widget.php:252
+#: includes/elements/widgets/class-wedocs-search-widget.php:435
+#: includes/elements/widgets/class-woo-cart-button-widget.php:114
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:349
+#: includes/elements/widgets/class-woo-products-widget.php:421
+#: includes/elements/widgets/class-woo-products-widget.php:605
+msgid "Normal"
+msgstr ""
+
+#: includes/elements/traits/controls.php:367
+#: includes/elements/traits/controls.php:404
+#: includes/elements/traits/controls.php:602
+#: includes/elements/traits/controls.php:639
+msgid "Arrow Color"
+msgstr ""
+
+#: includes/elements/traits/controls.php:381
+#: includes/elements/traits/controls.php:418
+#: includes/elements/traits/controls.php:616
+#: includes/elements/traits/controls.php:653
+#: includes/elements/widgets/class-blog-grid-widget.php:617
+#: includes/elements/widgets/class-blog-grid-widget.php:654
+#: includes/elements/widgets/class-blog-masonry-widget.php:683
+#: includes/elements/widgets/class-blog-masonry-widget.php:720
+#: includes/elements/widgets/class-blog-standard-widget.php:183
+#: includes/elements/widgets/class-blog-standard-widget.php:808
+#: includes/elements/widgets/class-blog-standard-widget.php:845
+#: includes/elements/widgets/class-contact-form-7-widget.php:148
+#: includes/elements/widgets/class-contact-form-7-widget.php:187
+#: includes/elements/widgets/class-contact-form-7-widget.php:302
+#: includes/elements/widgets/class-contact-form-7-widget.php:341
+#: includes/elements/widgets/class-edd-cart-button-widget.php:128
+#: includes/elements/widgets/class-edd-cart-button-widget.php:167
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:243
+#: includes/elements/widgets/class-edd-products-widget.php:536
+#: includes/elements/widgets/class-edd-products-widget.php:583
+#: includes/elements/widgets/class-edd-products-widget.php:620
+#: includes/elements/widgets/class-edd-search-widget.php:103
+#: includes/elements/widgets/class-edd-search-widget.php:142
+#: includes/elements/widgets/class-edd-search-widget.php:235
+#: includes/elements/widgets/class-edd-search-widget.php:274
+#: includes/elements/widgets/class-flip-box-widget.php:133
+#: includes/elements/widgets/class-flip-box-widget.php:234
+#: includes/elements/widgets/class-flip-box-widget.php:523
+#: includes/elements/widgets/class-flip-box-widget.php:571
+#: includes/elements/widgets/class-interactive-banner-widget.php:154
+#: includes/elements/widgets/class-interactive-banner-widget.php:195
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:246
+#: includes/elements/widgets/class-lp-courses-widget.php:623
+#: includes/elements/widgets/class-lp-courses-widget.php:660
+#: includes/elements/widgets/class-picture-carousel-widget.php:239
+#: includes/elements/widgets/class-picture-slider-widget.php:200
+#: includes/elements/widgets/class-picture-slider-widget.php:316
+#: includes/elements/widgets/class-picture-slider-widget.php:355
+#: includes/elements/widgets/class-post-carousel-widget.php:215
+#: includes/elements/widgets/class-post-slider-widget.php:144
+#: includes/elements/widgets/class-post-slider-widget.php:165
+#: includes/elements/widgets/class-price-table-widget.php:151
+#: includes/elements/widgets/class-price-table-widget.php:200
+#: includes/elements/widgets/class-price-table-widget.php:242
+#: includes/elements/widgets/class-price-table-widget.php:296
+#: includes/elements/widgets/class-price-table-widget.php:424
+#: includes/elements/widgets/class-price-table-widget.php:463
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:215
+#: includes/elements/widgets/class-wedocs-archive-widget.php:323
+#: includes/elements/widgets/class-wedocs-archive-widget.php:362
+#: includes/elements/widgets/class-wedocs-search-widget.php:114
+#: includes/elements/widgets/class-wedocs-search-widget.php:153
+#: includes/elements/widgets/class-wedocs-search-widget.php:273
+#: includes/elements/widgets/class-wedocs-search-widget.php:321
+#: includes/elements/widgets/class-wedocs-search-widget.php:453
+#: includes/elements/widgets/class-wedocs-search-widget.php:492
+#: includes/elements/widgets/class-woo-cart-button-widget.php:132
+#: includes/elements/widgets/class-woo-cart-button-widget.php:171
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:259
+#: includes/elements/widgets/class-woo-products-widget.php:580
+#: includes/elements/widgets/class-woo-products-widget.php:627
+#: includes/elements/widgets/class-woo-products-widget.php:664
+msgid "Background Color"
+msgstr ""
+
+#: includes/elements/traits/controls.php:397
+#: includes/elements/traits/controls.php:502
+#: includes/elements/traits/controls.php:632
+#: includes/elements/traits/controls.php:737
+#: includes/elements/widgets/class-blog-grid-widget.php:258
+#: includes/elements/widgets/class-blog-grid-widget.php:351
+#: includes/elements/widgets/class-blog-grid-widget.php:457
+#: includes/elements/widgets/class-blog-grid-widget.php:632
+#: includes/elements/widgets/class-blog-masonry-widget.php:260
+#: includes/elements/widgets/class-blog-masonry-widget.php:353
+#: includes/elements/widgets/class-blog-masonry-widget.php:480
+#: includes/elements/widgets/class-blog-masonry-widget.php:698
+#: includes/elements/widgets/class-blog-standard-widget.php:363
+#: includes/elements/widgets/class-blog-standard-widget.php:491
+#: includes/elements/widgets/class-blog-standard-widget.php:706
+#: includes/elements/widgets/class-blog-standard-widget.php:823
+#: includes/elements/widgets/class-contact-form-7-widget.php:169
+#: includes/elements/widgets/class-contact-form-7-widget.php:323
+#: includes/elements/widgets/class-edd-cart-button-widget.php:149
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:353
+#: includes/elements/widgets/class-edd-products-widget.php:404
+#: includes/elements/widgets/class-edd-products-widget.php:598
+#: includes/elements/widgets/class-edd-search-widget.php:124
+#: includes/elements/widgets/class-edd-search-widget.php:256
+#: includes/elements/widgets/class-flip-box-widget.php:550
+#: includes/elements/widgets/class-interactive-banner-widget.php:175
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:356
+#: includes/elements/widgets/class-lp-courses-widget.php:398
+#: includes/elements/widgets/class-lp-courses-widget.php:638
+#: includes/elements/widgets/class-picture-carousel-widget.php:350
+#: includes/elements/widgets/class-picture-slider-widget.php:337
+#: includes/elements/widgets/class-post-carousel-widget.php:352
+#: includes/elements/widgets/class-post-carousel-widget.php:446
+#: includes/elements/widgets/class-post-slider-widget.php:157
+#: includes/elements/widgets/class-post-slider-widget.php:330
+#: includes/elements/widgets/class-post-slider-widget.php:408
+#: includes/elements/widgets/class-price-table-widget.php:445
+#: includes/elements/widgets/class-wedocs-archive-widget.php:255
+#: includes/elements/widgets/class-wedocs-archive-widget.php:344
+#: includes/elements/widgets/class-wedocs-search-widget.php:135
+#: includes/elements/widgets/class-wedocs-search-widget.php:300
+#: includes/elements/widgets/class-wedocs-search-widget.php:474
+#: includes/elements/widgets/class-woo-cart-button-widget.php:153
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:369
+#: includes/elements/widgets/class-woo-products-widget.php:441
+#: includes/elements/widgets/class-woo-products-widget.php:642
+msgid "Hover"
+msgstr ""
+
+#: includes/elements/traits/controls.php:435
+#: includes/elements/traits/controls.php:670
+msgid "Arrow Size"
+msgstr ""
+
+#: includes/elements/traits/controls.php:460
+msgid "Slider Pagination"
+msgstr ""
+
+#: includes/elements/traits/controls.php:486
+#: includes/elements/traits/controls.php:509
+#: includes/elements/traits/controls.php:721
+#: includes/elements/traits/controls.php:744
+#: includes/elements/widgets/class-wedocs-archive-widget.php:195
+msgid "Bullet Color"
+msgstr ""
+
+#: includes/elements/traits/controls.php:526
+#: includes/elements/traits/controls.php:761
+msgid "Bullets Size"
+msgstr ""
+
+#: includes/elements/traits/controls.php:550
+#: includes/elements/traits/controls.php:785
+msgid "Margin Bottom"
+msgstr ""
+
+#: includes/elements/traits/controls.php:576
+msgid "Carousel Navigation"
+msgstr ""
+
+#: includes/elements/traits/controls.php:695
+msgid "Carousel Pagination"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:32
+msgid "Blog Grid"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:51
+#: includes/elements/widgets/class-blog-masonry-widget.php:64
+#: includes/elements/widgets/class-blog-standard-widget.php:52
+#: includes/elements/widgets/class-post-carousel-widget.php:62
+msgid "Post Settings"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:60
+#: includes/elements/widgets/class-blog-masonry-widget.php:73
+#: includes/elements/widgets/class-blog-standard-widget.php:61
+#: includes/elements/widgets/class-post-carousel-widget.php:71
+#: includes/elements/widgets/class-post-slider-widget.php:69
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:68
+#: includes/elements/widgets/class-blog-masonry-widget.php:81
+#: includes/elements/widgets/class-blog-standard-widget.php:69
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:71
+#: includes/elements/widgets/class-blog-grid-widget.php:82
+#: includes/elements/widgets/class-blog-grid-widget.php:93
+#: includes/elements/widgets/class-blog-grid-widget.php:104
+#: includes/elements/widgets/class-blog-grid-widget.php:215
+#: includes/elements/widgets/class-blog-masonry-widget.php:84
+#: includes/elements/widgets/class-blog-masonry-widget.php:95
+#: includes/elements/widgets/class-blog-masonry-widget.php:106
+#: includes/elements/widgets/class-blog-masonry-widget.php:117
+#: includes/elements/widgets/class-blog-masonry-widget.php:140
+#: includes/elements/widgets/class-blog-standard-widget.php:72
+#: includes/elements/widgets/class-blog-standard-widget.php:83
+#: includes/elements/widgets/class-blog-standard-widget.php:94
+#: includes/elements/widgets/class-blog-standard-widget.php:105
+#: includes/elements/widgets/class-blog-standard-widget.php:129
+#: includes/elements/widgets/class-blog-standard-widget.php:151
+#: includes/elements/widgets/class-blog-standard-widget.php:174
+#: includes/elements/widgets/class-blog-standard-widget.php:237
+#: includes/elements/widgets/class-edd-products-widget.php:83
+#: includes/elements/widgets/class-edd-products-widget.php:94
+#: includes/elements/widgets/class-edd-products-widget.php:105
+#: includes/elements/widgets/class-edd-products-widget.php:116
+#: includes/elements/widgets/class-edd-products-widget.php:361
+#: includes/elements/widgets/class-flip-box-widget.php:198
+#: includes/elements/widgets/class-interactive-banner-widget.php:93
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:83
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:94
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:210
+#: includes/elements/widgets/class-lp-courses-widget.php:83
+#: includes/elements/widgets/class-lp-courses-widget.php:94
+#: includes/elements/widgets/class-lp-courses-widget.php:105
+#: includes/elements/widgets/class-lp-courses-widget.php:116
+#: includes/elements/widgets/class-lp-courses-widget.php:355
+#: includes/elements/widgets/class-picture-carousel-widget.php:179
+#: includes/elements/widgets/class-picture-carousel-widget.php:203
+#: includes/elements/widgets/class-post-carousel-widget.php:179
+#: includes/elements/widgets/class-post-slider-widget.php:90
+#: includes/elements/widgets/class-post-slider-widget.php:101
+#: includes/elements/widgets/class-price-table-widget.php:132
+#: includes/elements/widgets/class-wedocs-search-widget.php:76
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:96
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:107
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:199
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:223
+#: includes/elements/widgets/class-woo-products-widget.php:97
+#: includes/elements/widgets/class-woo-products-widget.php:108
+#: includes/elements/widgets/class-woo-products-widget.php:120
+#: includes/elements/widgets/class-woo-products-widget.php:132
+#: includes/elements/widgets/class-woo-products-widget.php:143
+#: includes/elements/widgets/class-woo-products-widget.php:154
+#: includes/elements/widgets/class-woo-products-widget.php:398
+msgid "Yes"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:72
+#: includes/elements/widgets/class-blog-grid-widget.php:83
+#: includes/elements/widgets/class-blog-grid-widget.php:94
+#: includes/elements/widgets/class-blog-grid-widget.php:105
+#: includes/elements/widgets/class-blog-grid-widget.php:216
+#: includes/elements/widgets/class-blog-masonry-widget.php:85
+#: includes/elements/widgets/class-blog-masonry-widget.php:96
+#: includes/elements/widgets/class-blog-masonry-widget.php:107
+#: includes/elements/widgets/class-blog-masonry-widget.php:118
+#: includes/elements/widgets/class-blog-masonry-widget.php:141
+#: includes/elements/widgets/class-blog-standard-widget.php:73
+#: includes/elements/widgets/class-blog-standard-widget.php:84
+#: includes/elements/widgets/class-blog-standard-widget.php:95
+#: includes/elements/widgets/class-blog-standard-widget.php:106
+#: includes/elements/widgets/class-blog-standard-widget.php:130
+#: includes/elements/widgets/class-blog-standard-widget.php:152
+#: includes/elements/widgets/class-blog-standard-widget.php:175
+#: includes/elements/widgets/class-blog-standard-widget.php:238
+#: includes/elements/widgets/class-edd-products-widget.php:84
+#: includes/elements/widgets/class-edd-products-widget.php:95
+#: includes/elements/widgets/class-edd-products-widget.php:106
+#: includes/elements/widgets/class-edd-products-widget.php:117
+#: includes/elements/widgets/class-edd-products-widget.php:362
+#: includes/elements/widgets/class-flip-box-widget.php:199
+#: includes/elements/widgets/class-interactive-banner-widget.php:94
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:84
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:95
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:211
+#: includes/elements/widgets/class-lp-courses-widget.php:84
+#: includes/elements/widgets/class-lp-courses-widget.php:95
+#: includes/elements/widgets/class-lp-courses-widget.php:106
+#: includes/elements/widgets/class-lp-courses-widget.php:117
+#: includes/elements/widgets/class-lp-courses-widget.php:356
+#: includes/elements/widgets/class-picture-carousel-widget.php:180
+#: includes/elements/widgets/class-picture-carousel-widget.php:204
+#: includes/elements/widgets/class-post-carousel-widget.php:180
+#: includes/elements/widgets/class-post-slider-widget.php:91
+#: includes/elements/widgets/class-post-slider-widget.php:102
+#: includes/elements/widgets/class-price-table-widget.php:133
+#: includes/elements/widgets/class-wedocs-search-widget.php:77
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:97
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:108
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:200
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:224
+#: includes/elements/widgets/class-woo-products-widget.php:98
+#: includes/elements/widgets/class-woo-products-widget.php:109
+#: includes/elements/widgets/class-woo-products-widget.php:121
+#: includes/elements/widgets/class-woo-products-widget.php:133
+#: includes/elements/widgets/class-woo-products-widget.php:144
+#: includes/elements/widgets/class-woo-products-widget.php:155
+#: includes/elements/widgets/class-woo-products-widget.php:399
+msgid "No"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:79
+#: includes/elements/widgets/class-blog-masonry-widget.php:92
+#: includes/elements/widgets/class-blog-standard-widget.php:80
+#: includes/elements/widgets/class-post-slider-widget.php:87
+msgid "Show Post Category"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:90
+#: includes/elements/widgets/class-blog-masonry-widget.php:103
+#: includes/elements/widgets/class-blog-standard-widget.php:91
+msgid "Show Post Author"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:101
+#: includes/elements/widgets/class-blog-masonry-widget.php:138
+#: includes/elements/widgets/class-blog-standard-widget.php:149
+msgid "Enable Pagination"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:116
+#: includes/elements/widgets/class-blog-masonry-widget.php:152
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:149
+#: includes/elements/widgets/class-edd-products-widget.php:170
+#: includes/elements/widgets/class-edd-products-widget.php:179
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:149
+#: includes/elements/widgets/class-lp-courses-widget.php:170
+#: includes/elements/widgets/class-lp-courses-widget.php:179
+#: includes/elements/widgets/class-picture-carousel-widget.php:142
+#: includes/elements/widgets/class-post-carousel-widget.php:118
+#: includes/elements/widgets/class-wedocs-archive-widget.php:77
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:162
+#: includes/elements/widgets/class-woo-products-widget.php:208
+#: includes/elements/widgets/class-woo-products-widget.php:217
+msgid "Layout"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:158
+#: includes/elements/widgets/class-blog-masonry-widget.php:195
+#: includes/elements/widgets/class-edd-products-widget.php:228
+#: includes/elements/widgets/class-edd-products-widget.php:277
+#: includes/elements/widgets/class-lp-courses-widget.php:225
+#: includes/elements/widgets/class-lp-courses-widget.php:271
+#: includes/elements/widgets/class-wedocs-archive-widget.php:119
+#: includes/elements/widgets/class-woo-products-widget.php:266
+#: includes/elements/widgets/class-woo-products-widget.php:315
+msgid "Row Gap"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:179
+#: includes/elements/widgets/class-blog-masonry-widget.php:216
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:171
+#: includes/elements/widgets/class-edd-products-widget.php:314
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:171
+#: includes/elements/widgets/class-lp-courses-widget.php:308
+#: includes/elements/widgets/class-picture-carousel-widget.php:164
+#: includes/elements/widgets/class-post-carousel-widget.php:140
+#: includes/elements/widgets/class-wedocs-archive-widget.php:140
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:184
+#: includes/elements/widgets/class-woo-products-widget.php:352
+msgid "Grid Shape"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:182
+#: includes/elements/widgets/class-blog-masonry-widget.php:219
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:174
+#: includes/elements/widgets/class-edd-products-widget.php:317
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:174
+#: includes/elements/widgets/class-lp-courses-widget.php:311
+#: includes/elements/widgets/class-picture-carousel-widget.php:167
+#: includes/elements/widgets/class-post-carousel-widget.php:143
+#: includes/elements/widgets/class-wedocs-archive-widget.php:143
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:187
+#: includes/elements/widgets/class-woo-products-widget.php:355
+msgid "Square"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:183
+#: includes/elements/widgets/class-blog-masonry-widget.php:220
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:175
+#: includes/elements/widgets/class-edd-products-widget.php:318
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:175
+#: includes/elements/widgets/class-lp-courses-widget.php:312
+#: includes/elements/widgets/class-picture-carousel-widget.php:168
+#: includes/elements/widgets/class-post-carousel-widget.php:144
+#: includes/elements/widgets/class-wedocs-archive-widget.php:144
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:188
+#: includes/elements/widgets/class-woo-products-widget.php:356
+msgid "Round"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:213
+#: includes/elements/widgets/class-edd-products-widget.php:359
+msgid "Center Alignment"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:246
+#: includes/elements/widgets/class-blog-grid-widget.php:266
+#: includes/elements/widgets/class-blog-grid-widget.php:336
+#: includes/elements/widgets/class-blog-grid-widget.php:359
+#: includes/elements/widgets/class-blog-grid-widget.php:430
+#: includes/elements/widgets/class-blog-grid-widget.php:465
+#: includes/elements/widgets/class-blog-grid-widget.php:603
+#: includes/elements/widgets/class-blog-grid-widget.php:640
+#: includes/elements/widgets/class-blog-masonry-widget.php:248
+#: includes/elements/widgets/class-blog-masonry-widget.php:268
+#: includes/elements/widgets/class-blog-masonry-widget.php:338
+#: includes/elements/widgets/class-blog-masonry-widget.php:361
+#: includes/elements/widgets/class-blog-masonry-widget.php:453
+#: includes/elements/widgets/class-blog-masonry-widget.php:488
+#: includes/elements/widgets/class-blog-masonry-widget.php:669
+#: includes/elements/widgets/class-blog-masonry-widget.php:706
+#: includes/elements/widgets/class-blog-standard-widget.php:351
+#: includes/elements/widgets/class-blog-standard-widget.php:371
+#: includes/elements/widgets/class-blog-standard-widget.php:459
+#: includes/elements/widgets/class-blog-standard-widget.php:499
+#: includes/elements/widgets/class-blog-standard-widget.php:691
+#: includes/elements/widgets/class-blog-standard-widget.php:714
+#: includes/elements/widgets/class-blog-standard-widget.php:794
+#: includes/elements/widgets/class-blog-standard-widget.php:831
+#: includes/elements/widgets/class-contact-form-7-widget.php:76
+#: includes/elements/widgets/class-contact-form-7-widget.php:137
+#: includes/elements/widgets/class-contact-form-7-widget.php:176
+#: includes/elements/widgets/class-contact-form-7-widget.php:291
+#: includes/elements/widgets/class-contact-form-7-widget.php:330
+#: includes/elements/widgets/class-countdown-widget.php:110
+#: includes/elements/widgets/class-edd-cart-button-widget.php:117
+#: includes/elements/widgets/class-edd-cart-button-widget.php:156
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:341
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:361
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:435
+#: includes/elements/widgets/class-edd-products-widget.php:392
+#: includes/elements/widgets/class-edd-products-widget.php:412
+#: includes/elements/widgets/class-edd-products-widget.php:477
+#: includes/elements/widgets/class-edd-products-widget.php:569
+#: includes/elements/widgets/class-edd-products-widget.php:606
+#: includes/elements/widgets/class-edd-search-widget.php:92
+#: includes/elements/widgets/class-edd-search-widget.php:131
+#: includes/elements/widgets/class-edd-search-widget.php:224
+#: includes/elements/widgets/class-edd-search-widget.php:263
+#: includes/elements/widgets/class-flip-box-widget.php:509
+#: includes/elements/widgets/class-flip-box-widget.php:557
+#: includes/elements/widgets/class-interactive-banner-widget.php:143
+#: includes/elements/widgets/class-interactive-banner-widget.php:183
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:344
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:364
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:438
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:525
+#: includes/elements/widgets/class-lp-courses-widget.php:386
+#: includes/elements/widgets/class-lp-courses-widget.php:406
+#: includes/elements/widgets/class-lp-courses-widget.php:471
+#: includes/elements/widgets/class-lp-courses-widget.php:535
+#: includes/elements/widgets/class-lp-courses-widget.php:609
+#: includes/elements/widgets/class-lp-courses-widget.php:646
+#: includes/elements/widgets/class-picture-carousel-widget.php:337
+#: includes/elements/widgets/class-picture-carousel-widget.php:358
+#: includes/elements/widgets/class-picture-slider-widget.php:128
+#: includes/elements/widgets/class-picture-slider-widget.php:305
+#: includes/elements/widgets/class-picture-slider-widget.php:344
+#: includes/elements/widgets/class-post-carousel-widget.php:340
+#: includes/elements/widgets/class-post-carousel-widget.php:360
+#: includes/elements/widgets/class-post-carousel-widget.php:434
+#: includes/elements/widgets/class-post-carousel-widget.php:454
+#: includes/elements/widgets/class-post-carousel-widget.php:521
+#: includes/elements/widgets/class-post-slider-widget.php:314
+#: includes/elements/widgets/class-post-slider-widget.php:338
+#: includes/elements/widgets/class-post-slider-widget.php:395
+#: includes/elements/widgets/class-post-slider-widget.php:416
+#: includes/elements/widgets/class-price-table-widget.php:231
+#: includes/elements/widgets/class-price-table-widget.php:285
+#: includes/elements/widgets/class-price-table-widget.php:340
+#: includes/elements/widgets/class-price-table-widget.php:413
+#: includes/elements/widgets/class-price-table-widget.php:452
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:268
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:300
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:332
+#: includes/elements/widgets/class-typing-widget.php:134
+#: includes/elements/widgets/class-typing-widget.php:164
+#: includes/elements/widgets/class-wedocs-archive-widget.php:164
+#: includes/elements/widgets/class-wedocs-archive-widget.php:243
+#: includes/elements/widgets/class-wedocs-archive-widget.php:263
+#: includes/elements/widgets/class-wedocs-archive-widget.php:312
+#: includes/elements/widgets/class-wedocs-archive-widget.php:351
+#: includes/elements/widgets/class-wedocs-search-widget.php:103
+#: includes/elements/widgets/class-wedocs-search-widget.php:142
+#: includes/elements/widgets/class-wedocs-search-widget.php:259
+#: includes/elements/widgets/class-wedocs-search-widget.php:307
+#: includes/elements/widgets/class-wedocs-search-widget.php:442
+#: includes/elements/widgets/class-wedocs-search-widget.php:481
+#: includes/elements/widgets/class-woo-cart-button-widget.php:121
+#: includes/elements/widgets/class-woo-cart-button-widget.php:160
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:357
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:377
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:451
+#: includes/elements/widgets/class-woo-products-widget.php:429
+#: includes/elements/widgets/class-woo-products-widget.php:449
+#: includes/elements/widgets/class-woo-products-widget.php:514
+#: includes/elements/widgets/class-woo-products-widget.php:613
+#: includes/elements/widgets/class-woo-products-widget.php:650
+msgid "Text Color"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:287
+#: includes/elements/widgets/class-blog-grid-widget.php:383
+#: includes/elements/widgets/class-blog-grid-widget.php:501
+#: includes/elements/widgets/class-blog-masonry-widget.php:289
+#: includes/elements/widgets/class-blog-masonry-widget.php:385
+#: includes/elements/widgets/class-blog-masonry-widget.php:524
+#: includes/elements/widgets/class-blog-standard-widget.php:392
+#: includes/elements/widgets/class-blog-standard-widget.php:540
+#: includes/elements/widgets/class-blog-standard-widget.php:738
+#: includes/elements/widgets/class-contact-form-7-widget.php:88
+#: includes/elements/widgets/class-contact-form-7-widget.php:263
+#: includes/elements/widgets/class-contact-form-7-widget.php:404
+#: includes/elements/widgets/class-countdown-widget.php:135
+#: includes/elements/widgets/class-edd-cart-button-widget.php:238
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:382
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:456
+#: includes/elements/widgets/class-edd-products-widget.php:433
+#: includes/elements/widgets/class-edd-products-widget.php:492
+#: includes/elements/widgets/class-edd-search-widget.php:196
+#: includes/elements/widgets/class-edd-search-widget.php:348
+#: includes/elements/widgets/class-flip-box-widget.php:657
+#: includes/elements/widgets/class-interactive-banner-widget.php:230
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:385
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:459
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:539
+#: includes/elements/widgets/class-lp-courses-widget.php:427
+#: includes/elements/widgets/class-lp-courses-widget.php:485
+#: includes/elements/widgets/class-lp-courses-widget.php:550
+#: includes/elements/widgets/class-picture-carousel-widget.php:379
+#: includes/elements/widgets/class-picture-carousel-widget.php:433
+#: includes/elements/widgets/class-picture-slider-widget.php:239
+#: includes/elements/widgets/class-picture-slider-widget.php:259
+#: includes/elements/widgets/class-post-carousel-widget.php:381
+#: includes/elements/widgets/class-post-carousel-widget.php:475
+#: includes/elements/widgets/class-post-carousel-widget.php:535
+#: includes/elements/widgets/class-post-slider-widget.php:363
+#: includes/elements/widgets/class-post-slider-widget.php:438
+#: includes/elements/widgets/class-post-slider-widget.php:508
+#: includes/elements/widgets/class-price-table-widget.php:254
+#: includes/elements/widgets/class-price-table-widget.php:308
+#: includes/elements/widgets/class-price-table-widget.php:363
+#: includes/elements/widgets/class-price-table-widget.php:557
+#: includes/elements/widgets/class-separate-text-widget.php:254
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:281
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:313
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:396
+#: includes/elements/widgets/class-wedocs-archive-widget.php:175
+#: includes/elements/widgets/class-wedocs-archive-widget.php:284
+#: includes/elements/widgets/class-wedocs-archive-widget.php:466
+#: includes/elements/widgets/class-wedocs-search-widget.php:228
+#: includes/elements/widgets/class-wedocs-search-widget.php:411
+#: includes/elements/widgets/class-wedocs-search-widget.php:567
+#: includes/elements/widgets/class-woo-cart-button-widget.php:242
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:398
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:472
+#: includes/elements/widgets/class-woo-products-widget.php:470
+#: includes/elements/widgets/class-woo-products-widget.php:533
+msgid "Typography"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:297
+#: includes/elements/widgets/class-blog-grid-widget.php:526
+#: includes/elements/widgets/class-blog-grid-widget.php:671
+#: includes/elements/widgets/class-blog-masonry-widget.php:299
+#: includes/elements/widgets/class-blog-masonry-widget.php:398
+#: includes/elements/widgets/class-blog-masonry-widget.php:549
+#: includes/elements/widgets/class-blog-masonry-widget.php:623
+#: includes/elements/widgets/class-blog-masonry-widget.php:737
+#: includes/elements/widgets/class-blog-standard-widget.php:402
+#: includes/elements/widgets/class-blog-standard-widget.php:570
+#: includes/elements/widgets/class-blog-standard-widget.php:648
+#: includes/elements/widgets/class-blog-standard-widget.php:751
+#: includes/elements/widgets/class-blog-standard-widget.php:862
+#: includes/elements/widgets/class-contact-form-7-widget.php:98
+#: includes/elements/widgets/class-contact-form-7-widget.php:241
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:392
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:476
+#: includes/elements/widgets/class-edd-products-widget.php:443
+#: includes/elements/widgets/class-edd-products-widget.php:505
+#: includes/elements/widgets/class-edd-products-widget.php:637
+#: includes/elements/widgets/class-flip-box-widget.php:331
+#: includes/elements/widgets/class-flip-box-widget.php:447
+#: includes/elements/widgets/class-flip-box-widget.php:670
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:395
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:479
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:552
+#: includes/elements/widgets/class-lp-courses-widget.php:437
+#: includes/elements/widgets/class-lp-courses-widget.php:498
+#: includes/elements/widgets/class-lp-courses-widget.php:563
+#: includes/elements/widgets/class-lp-courses-widget.php:677
+#: includes/elements/widgets/class-picture-carousel-widget.php:389
+#: includes/elements/widgets/class-picture-carousel-widget.php:443
+#: includes/elements/widgets/class-picture-slider-widget.php:269
+#: includes/elements/widgets/class-picture-slider-widget.php:428
+#: includes/elements/widgets/class-post-carousel-widget.php:391
+#: includes/elements/widgets/class-post-carousel-widget.php:485
+#: includes/elements/widgets/class-post-carousel-widget.php:547
+#: includes/elements/widgets/class-post-slider-widget.php:447
+#: includes/elements/widgets/class-post-slider-widget.php:520
+#: includes/elements/widgets/class-wedocs-archive-widget.php:435
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:408
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:492
+#: includes/elements/widgets/class-woo-products-widget.php:480
+#: includes/elements/widgets/class-woo-products-widget.php:546
+#: includes/elements/widgets/class-woo-products-widget.php:681
+msgid "Margin Top"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:316
+#: includes/elements/widgets/class-blog-masonry-widget.php:318
+msgid "Category"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:397
+#: includes/elements/widgets/class-blog-masonry-widget.php:420
+#: includes/elements/widgets/class-lp-courses-widget.php:523
+msgid "Meta Text"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:560
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:162
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:511
+#: includes/elements/widgets/class-edd-products-widget.php:305
+#: includes/elements/widgets/class-edd-products-widget.php:527
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:162
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:581
+#: includes/elements/widgets/class-lp-courses-widget.php:299
+#: includes/elements/widgets/class-picture-carousel-widget.php:155
+#: includes/elements/widgets/class-picture-carousel-widget.php:467
+#: includes/elements/widgets/class-post-carousel-widget.php:131
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:175
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:526
+#: includes/elements/widgets/class-woo-products-widget.php:343
+#: includes/elements/widgets/class-woo-products-widget.php:571
+msgid "Overlay"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:569
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:520
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:590
+#: includes/elements/widgets/class-picture-carousel-widget.php:476
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:535
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:582
+#: includes/elements/widgets/class-blog-masonry-widget.php:648
+#: includes/elements/widgets/class-blog-standard-widget.php:773
+#: includes/elements/widgets/class-edd-products-widget.php:548
+#: includes/elements/widgets/class-lp-courses-widget.php:588
+#: includes/elements/widgets/class-woo-products-widget.php:592
+msgid "Pagination"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:753
+#: includes/elements/widgets/class-blog-masonry-widget.php:820
+#: includes/elements/widgets/class-blog-standard-widget.php:944
+msgid "By"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-grid-widget.php:766
+#: includes/elements/widgets/class-blog-masonry-widget.php:844
+#: includes/elements/widgets/class-blog-standard-widget.php:974
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:652
+msgid "No Posts Found"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-masonry-widget.php:40
+msgid "Blog Masonry"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-masonry-widget.php:114
+#: includes/elements/widgets/class-blog-standard-widget.php:102
+#: includes/elements/widgets/class-post-slider-widget.php:98
+msgid "Show Post Excerpt"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-masonry-widget.php:125
+#: includes/elements/widgets/class-blog-standard-widget.php:113
+#: includes/elements/widgets/class-post-carousel-widget.php:101
+#: includes/elements/widgets/class-post-slider-widget.php:109
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-masonry-widget.php:126
+#: includes/elements/widgets/class-blog-standard-widget.php:114
+#: includes/elements/widgets/class-post-carousel-widget.php:102
+#: includes/elements/widgets/class-post-slider-widget.php:110
+msgid "in words."
+msgstr ""
+
+#: includes/elements/widgets/class-blog-masonry-widget.php:583
+#: includes/elements/widgets/class-blog-standard-widget.php:609
+#: includes/elements/widgets/class-post-carousel-widget.php:509
+#: includes/elements/widgets/class-post-slider-widget.php:481
+msgid "Excerpt"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-masonry-widget.php:595
+#: includes/elements/widgets/class-blog-standard-widget.php:621
+msgid "Excerpt Color"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-masonry-widget.php:610
+#: includes/elements/widgets/class-blog-standard-widget.php:635
+msgid "Excerpt Typography"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:33
+msgid "Blog Standard"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:126
+msgid "Show Read More"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:137
+#: includes/elements/widgets/class-wedocs-archive-widget.php:67
+msgid "Read More Text"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:139
+#: includes/elements/widgets/class-blog-standard-widget.php:670
+#: includes/elements/widgets/class-picture-slider-widget.php:174
+msgid "Read More"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:163
+#: includes/elements/widgets/class-blog-standard-widget.php:172
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:219
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:222
+#: includes/elements/widgets/class-picture-carousel-widget.php:215
+#: includes/elements/widgets/class-post-carousel-widget.php:191
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:207
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:235
+msgid "Boxed"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:209
+#: includes/elements/widgets/class-contact-form-7-widget.php:215
+#: includes/elements/widgets/class-contact-form-7-widget.php:370
+#: includes/elements/widgets/class-edd-cart-button-widget.php:204
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:292
+#: includes/elements/widgets/class-edd-search-widget.php:170
+#: includes/elements/widgets/class-edd-search-widget.php:302
+#: includes/elements/widgets/class-flip-box-widget.php:614
+#: includes/elements/widgets/class-interactive-banner-widget.php:251
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:295
+#: includes/elements/widgets/class-picture-carousel-widget.php:288
+#: includes/elements/widgets/class-picture-slider-widget.php:394
+#: includes/elements/widgets/class-post-carousel-widget.php:264
+#: includes/elements/widgets/class-price-table-widget.php:169
+#: includes/elements/widgets/class-price-table-widget.php:502
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:234
+#: includes/elements/widgets/class-wedocs-archive-widget.php:400
+#: includes/elements/widgets/class-wedocs-search-widget.php:182
+#: includes/elements/widgets/class-wedocs-search-widget.php:353
+#: includes/elements/widgets/class-wedocs-search-widget.php:521
+#: includes/elements/widgets/class-woo-cart-button-widget.php:208
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:308
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:226
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:234
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:245
+#: includes/elements/widgets/class-countdown-widget.php:87
+#: includes/elements/widgets/class-edd-cart-button-widget.php:85
+#: includes/elements/widgets/class-separate-text-widget.php:65
+#: includes/elements/widgets/class-typing-widget.php:111
+#: includes/elements/widgets/class-wedocs-archive-widget.php:452
+#: includes/elements/widgets/class-woo-cart-button-widget.php:89
+msgid "Alignment"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:253
+#: includes/elements/widgets/class-separate-text-widget.php:79
+#: includes/elements/widgets/class-separate-text-widget.php:158
+msgid "None"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:272
+msgid "Thumbnail Width"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:421
+msgid "Meta"
+msgstr ""
+
+#: includes/elements/widgets/class-blog-standard-widget.php:940
+msgid "In"
+msgstr ""
+
+#: includes/elements/widgets/class-contact-form-7-widget.php:34
+#: includes/elements/widgets/class-contact-form-7-widget.php:49
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/elements/widgets/class-contact-form-7-widget.php:57
+msgid "Select a Form"
+msgstr ""
+
+#: includes/elements/widgets/class-contact-form-7-widget.php:68
+msgid "Label"
+msgstr ""
+
+#: includes/elements/widgets/class-contact-form-7-widget.php:120
+msgid "Input Field"
+msgstr ""
+
+#: includes/elements/widgets/class-contact-form-7-widget.php:198
+#: includes/elements/widgets/class-contact-form-7-widget.php:352
+#: includes/elements/widgets/class-edd-cart-button-widget.php:178
+#: includes/elements/widgets/class-edd-search-widget.php:153
+#: includes/elements/widgets/class-edd-search-widget.php:285
+#: includes/elements/widgets/class-flip-box-widget.php:585
+#: includes/elements/widgets/class-interactive-banner-widget.php:206
+#: includes/elements/widgets/class-picture-slider-widget.php:366
+#: includes/elements/widgets/class-price-table-widget.php:474
+#: includes/elements/widgets/class-separate-text-widget.php:265
+#: includes/elements/widgets/class-wedocs-archive-widget.php:373
+#: includes/elements/widgets/class-wedocs-search-widget.php:164
+#: includes/elements/widgets/class-wedocs-search-widget.php:335
+#: includes/elements/widgets/class-wedocs-search-widget.php:503
+#: includes/elements/widgets/class-woo-cart-button-widget.php:182
+msgid "Border Color"
+msgstr ""
+
+#: includes/elements/widgets/class-contact-form-7-widget.php:228
+#: includes/elements/widgets/class-contact-form-7-widget.php:391
+#: includes/elements/widgets/class-edd-cart-button-widget.php:225
+#: includes/elements/widgets/class-edd-search-widget.php:183
+#: includes/elements/widgets/class-edd-search-widget.php:323
+#: includes/elements/widgets/class-flip-box-widget.php:641
+#: includes/elements/widgets/class-interactive-banner-widget.php:239
+#: includes/elements/widgets/class-picture-slider-widget.php:415
+#: includes/elements/widgets/class-post-carousel-widget.php:291
+#: includes/elements/widgets/class-post-slider-widget.php:271
+#: includes/elements/widgets/class-price-table-widget.php:263
+#: includes/elements/widgets/class-price-table-widget.php:317
+#: includes/elements/widgets/class-price-table-widget.php:523
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:246
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:353
+#: includes/elements/widgets/class-wedocs-archive-widget.php:421
+#: includes/elements/widgets/class-wedocs-search-widget.php:203
+#: includes/elements/widgets/class-wedocs-search-widget.php:380
+#: includes/elements/widgets/class-wedocs-search-widget.php:542
+#: includes/elements/widgets/class-woo-cart-button-widget.php:229
+msgid "Padding"
+msgstr ""
+
+#: includes/elements/widgets/class-contact-form-7-widget.php:274
+#: includes/elements/widgets/class-edd-search-widget.php:207
+#: includes/elements/widgets/class-flip-box-widget.php:489
+#: includes/elements/widgets/class-picture-slider-widget.php:288
+#: includes/elements/widgets/class-price-table-widget.php:396
+#: includes/elements/widgets/class-wedocs-search-widget.php:425
+msgid "Button"
+msgstr ""
+
+#: includes/elements/widgets/class-countdown-widget.php:39
+#: includes/elements/widgets/class-countdown-widget.php:58
+msgid "Countdown"
+msgstr ""
+
+#: includes/elements/widgets/class-countdown-widget.php:66
+msgid "Due Date"
+msgstr ""
+
+#: includes/elements/widgets/class-countdown-widget.php:69
+msgid "Set date according to your timezone."
+msgstr ""
+
+#: includes/elements/widgets/class-countdown-widget.php:76
+msgid "Expired Notice"
+msgstr ""
+
+#: includes/elements/widgets/class-countdown-widget.php:79
+msgid "Show the text after the time is expired."
+msgstr ""
+
+#: includes/elements/widgets/class-countdown-widget.php:122
+msgid "Text Expired Color"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:34
+#: includes/elements/widgets/class-edd-cart-button-widget.php:49
+msgid "EDD Cart Button"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:57
+msgid "Product"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:67
+msgid "Price ID"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:69
+msgid "Please enter Price ID if the selected product is a variable product."
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:77
+#: includes/elements/widgets/class-edd-search-widget.php:65
+#: includes/elements/widgets/class-flip-box-widget.php:206
+#: includes/elements/widgets/class-picture-slider-widget.php:172
+#: includes/elements/widgets/class-price-table-widget.php:111
+#: includes/elements/widgets/class-wedocs-search-widget.php:65
+#: includes/elements/widgets/class-woo-cart-button-widget.php:81
+msgid "Button Text"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:78
+#: includes/elements/widgets/class-price-table-widget.php:112
+msgid "Buy Now"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:100
+#: includes/elements/widgets/class-woo-cart-button-widget.php:104
+msgid "Button Style"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-cart-button-widget.php:192
+#: includes/elements/widgets/class-flip-box-widget.php:599
+#: includes/elements/widgets/class-picture-slider-widget.php:380
+#: includes/elements/widgets/class-price-table-widget.php:488
+#: includes/elements/widgets/class-wedocs-archive-widget.php:387
+#: includes/elements/widgets/class-woo-cart-button-widget.php:196
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:39
+msgid "EDD Product Carousel"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:63
+#: includes/elements/widgets/class-edd-products-widget.php:63
+#: includes/elements/widgets/class-flip-box-widget.php:50
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:63
+#: includes/elements/widgets/class-lp-courses-widget.php:63
+#: includes/elements/widgets/class-post-slider-widget.php:61
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:140
+#: includes/elements/widgets/class-wedocs-archive-widget.php:49
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:62
+#: includes/elements/widgets/class-woo-products-widget.php:63
+msgid "Settings"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:72
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:71
+msgid "Number of Products"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:80
+#: includes/elements/widgets/class-edd-products-widget.php:80
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:80
+#: includes/elements/widgets/class-lp-courses-widget.php:80
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:93
+#: includes/elements/widgets/class-woo-products-widget.php:94
+msgid "Show Price"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:91
+#: includes/elements/widgets/class-edd-products-widget.php:91
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:104
+#: includes/elements/widgets/class-woo-products-widget.php:105
+msgid "Show Cart Button"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:157
+#: includes/elements/widgets/class-edd-products-widget.php:300
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:157
+#: includes/elements/widgets/class-lp-courses-widget.php:294
+#: includes/elements/widgets/class-picture-carousel-widget.php:150
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:170
+#: includes/elements/widgets/class-woo-products-widget.php:338
+msgid "Grid Style"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:161
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:161
+#: includes/elements/widgets/class-picture-carousel-widget.php:154
+#: includes/elements/widgets/class-post-carousel-widget.php:130
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:174
+msgid "Standard"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:184
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:184
+#: includes/elements/widgets/class-picture-carousel-widget.php:177
+#: includes/elements/widgets/class-post-carousel-widget.php:153
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:197
+msgid "Boxed Style"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:195
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:198
+#: includes/elements/widgets/class-picture-carousel-widget.php:191
+#: includes/elements/widgets/class-post-carousel-widget.php:167
+#: includes/elements/widgets/class-post-slider-widget.php:78
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:211
+msgid "Image Size"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:204
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:207
+#: includes/elements/widgets/class-picture-carousel-widget.php:200
+#: includes/elements/widgets/class-post-carousel-widget.php:176
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:220
+msgid "Hover Effect"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-product-carousel-widget.php:416
+#: includes/elements/widgets/class-edd-products-widget.php:465
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:419
+#: includes/elements/widgets/class-lp-courses-widget.php:459
+#: includes/elements/widgets/class-price-table-widget.php:71
+#: includes/elements/widgets/class-price-table-widget.php:277
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:432
+#: includes/elements/widgets/class-woo-products-widget.php:502
+msgid "Price"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:40
+msgid "EDD Products"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:72
+msgid "Number of downloads per page"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:102
+#: includes/elements/widgets/class-lp-courses-widget.php:102
+#: includes/elements/widgets/class-woo-products-widget.php:140
+msgid "Enable Pagination?"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:113
+#: includes/elements/widgets/class-lp-courses-widget.php:113
+#: includes/elements/widgets/class-woo-products-widget.php:151
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:182
+#: includes/elements/widgets/class-lp-courses-widget.php:182
+#: includes/elements/widgets/class-woo-products-widget.php:220
+msgid "Grid"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:183
+#: includes/elements/widgets/class-lp-courses-widget.php:183
+#: includes/elements/widgets/class-woo-products-widget.php:221
+msgid "Masonry"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:304
+#: includes/elements/widgets/class-lp-courses-widget.php:298
+#: includes/elements/widgets/class-woo-products-widget.php:342
+#: includes/global-blocks/class-global-blocks-widget.php:163
+msgid "Default"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:327
+#: includes/elements/widgets/class-lp-courses-widget.php:321
+#: includes/elements/widgets/class-woo-products-widget.php:365
+msgid "Thumbnail Size"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-products-widget.php:782
+msgid "No Item Found"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-search-widget.php:33
+#: includes/elements/widgets/class-edd-search-widget.php:48
+msgid "EDD Search"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-search-widget.php:56
+msgid "Placeholder Text"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-search-widget.php:57
+msgid "Search &hellip;"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-search-widget.php:66
+#: includes/elements/widgets/class-wedocs-search-widget.php:66
+#: includes/elements/widgets/class-wedocs-search-widget.php:86
+msgid "Search"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-search-widget.php:75
+msgid "Input"
+msgstr ""
+
+#: includes/elements/widgets/class-edd-search-widget.php:335
+#: includes/elements/widgets/class-price-table-widget.php:536
+#: includes/elements/widgets/class-wedocs-search-widget.php:215
+#: includes/elements/widgets/class-wedocs-search-widget.php:395
+#: includes/elements/widgets/class-wedocs-search-widget.php:554
+msgid "Margin"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:35
+msgid "Flip Box"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:59
+msgid "Flip Box Height"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:82
+msgid "Flipping Direction"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:85
+msgid "Flip X"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:86
+msgid "Flip Y"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:97
+msgid "Front Content"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:106
+#: includes/elements/widgets/class-flip-box-widget.php:168
+msgid "Select Icon"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:117
+#: includes/elements/widgets/class-flip-box-widget.php:179
+#: includes/elements/widgets/class-interactive-banner-widget.php:84
+msgid "Sample Title"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:125
+#: includes/elements/widgets/class-flip-box-widget.php:187
+#: includes/elements/widgets/class-picture-carousel-widget.php:94
+#: includes/elements/widgets/class-picture-carousel-widget.php:413
+#: includes/elements/widgets/class-picture-slider-widget.php:120
+#: includes/elements/widgets/class-picture-slider-widget.php:250
+#: includes/elements/widgets/class-post-slider-widget.php:126
+#: includes/elements/widgets/class-price-table-widget.php:332
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:100
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:324
+msgid "Content"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:146
+#: includes/elements/widgets/class-flip-box-widget.php:247
+#: includes/elements/widgets/class-picture-slider-widget.php:189
+msgid "Background Image"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:159
+msgid "Back Content"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:195
+msgid "Show Button?"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:208
+#: includes/elements/widgets/class-flip-box-widget.php:209
+msgid "Click here"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:219
+#: includes/elements/widgets/class-picture-slider-widget.php:181
+#: includes/elements/widgets/class-price-table-widget.php:120
+msgid "Button URL"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:259
+msgid "Front Style"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:267
+#: includes/elements/widgets/class-flip-box-widget.php:382
+msgid "Icon Color"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:280
+#: includes/elements/widgets/class-flip-box-widget.php:395
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:307
+#: includes/elements/widgets/class-flip-box-widget.php:422
+msgid "Title Color"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:321
+#: includes/elements/widgets/class-flip-box-widget.php:437
+msgid "Title Typography"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:348
+#: includes/elements/widgets/class-flip-box-widget.php:464
+msgid "Content Text Color"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:362
+#: includes/elements/widgets/class-flip-box-widget.php:478
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:344
+msgid "Content Typography"
+msgstr ""
+
+#: includes/elements/widgets/class-flip-box-widget.php:374
+msgid "Back Style"
+msgstr ""
+
+#: includes/elements/widgets/class-global-block-slider-widget.php:38
+msgid "Global Block Slider"
+msgstr ""
+
+#: includes/elements/widgets/class-global-block-slider-widget.php:61
+#: includes/elements/widgets/class-global-block-widget.php:31
+#: includes/elements/widgets/class-global-block-widget.php:50
+#: includes/global-blocks/class-global-blocks-widget.php:23
+#: includes/global-blocks/class-global-blocks.php:118
+#: includes/global-blocks/class-global-blocks.php:133
+msgid "Global Block"
+msgstr ""
+
+#: includes/elements/widgets/class-global-block-slider-widget.php:70
+msgid "Block"
+msgstr ""
+
+#: includes/elements/widgets/class-global-block-slider-widget.php:82
+msgid "Blocks"
+msgstr ""
+
+#: includes/elements/widgets/class-global-block-widget.php:58
+#: includes/global-blocks/class-global-blocks-widget.php:76
+msgid "Select Block:"
+msgstr ""
+
+#: includes/elements/widgets/class-interactive-banner-widget.php:36
+msgid "Interactive Banner"
+msgstr ""
+
+#: includes/elements/widgets/class-interactive-banner-widget.php:55
+msgid "Banner Settings"
+msgstr ""
+
+#: includes/elements/widgets/class-interactive-banner-widget.php:64
+msgid "Upload Picture"
+msgstr ""
+
+#: includes/elements/widgets/class-interactive-banner-widget.php:75
+msgid "Picture Link"
+msgstr ""
+
+#: includes/elements/widgets/class-interactive-banner-widget.php:91
+msgid "Hide Title By Default"
+msgstr ""
+
+#: includes/elements/widgets/class-interactive-banner-widget.php:103
+msgid "Height"
+msgstr ""
+
+#: includes/elements/widgets/class-interactive-banner-widget.php:125
+msgid "Text Style"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:39
+msgid "LP Course Carousel"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:72
+msgid "Number of Courses"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:91
+#: includes/elements/widgets/class-lp-courses-widget.php:91
+msgid "Show Enrolled Students Count"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:513
+msgid "Students Count"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:697
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:721
+#: includes/elements/widgets/class-lp-courses-widget.php:803
+#: includes/elements/widgets/class-lp-courses-widget.php:825
+msgid "Students"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-course-carousel-widget.php:732
+msgid "No Courses Found"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-courses-widget.php:40
+msgid "LP Courses"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-courses-widget.php:72
+msgid "Number of Courses Per Page"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-courses-widget.php:353
+#: includes/elements/widgets/class-woo-products-widget.php:396
+msgid "Content Alignment Center"
+msgstr ""
+
+#: includes/elements/widgets/class-lp-courses-widget.php:835
+msgid "No courses Found"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-carousel-widget.php:41
+#: includes/elements/widgets/class-picture-carousel-widget.php:64
+msgid "Picture Carousel"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-carousel-widget.php:74
+msgid "Image"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-carousel-widget.php:102
+msgid "Link"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-carousel-widget.php:110
+msgid "Carousel Items"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-carousel-widget.php:422
+#: includes/elements/widgets/class-post-slider-widget.php:493
+#: includes/elements/widgets/class-separate-text-widget.php:240
+#: includes/elements/widgets/class-separate-text-widget.php:295
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:380
+msgid "Color"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-carousel-widget.php:621
+msgid "No item found"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:42
+#: includes/elements/widgets/class-picture-slider-widget.php:65
+msgid "Picture Slider"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:74
+msgid "Content Image"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:82
+msgid "Image Position"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:104
+msgid "Title Wrapper"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:137
+#: includes/elements/widgets/class-post-slider-widget.php:252
+msgid "Content Position"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:141
+#: includes/elements/widgets/class-post-slider-widget.php:255
+msgid "Top Left"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:142
+#: includes/elements/widgets/class-post-slider-widget.php:256
+msgid "Top Center"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:143
+#: includes/elements/widgets/class-post-slider-widget.php:257
+msgid "Top Right"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:144
+#: includes/elements/widgets/class-post-slider-widget.php:258
+msgid "Center Left"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:146
+#: includes/elements/widgets/class-post-slider-widget.php:260
+msgid "Center Right"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:147
+#: includes/elements/widgets/class-post-slider-widget.php:261
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:148
+#: includes/elements/widgets/class-post-slider-widget.php:262
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:149
+#: includes/elements/widgets/class-post-slider-widget.php:263
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:158
+#: includes/elements/widgets/class-post-slider-widget.php:191
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:147
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/elements/widgets/class-picture-slider-widget.php:208
+msgid "Slides"
+msgstr ""
+
+#: includes/elements/widgets/class-post-carousel-widget.php:39
+msgid "Post Carousel"
+msgstr ""
+
+#: includes/elements/widgets/class-post-carousel-widget.php:79
+msgid "Show Categories"
+msgstr ""
+
+#: includes/elements/widgets/class-post-carousel-widget.php:90
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/elements/widgets/class-post-carousel-widget.php:127
+msgid "Grid Layout"
+msgstr ""
+
+#: includes/elements/widgets/class-post-carousel-widget.php:655
+msgid "Not found"
+msgstr ""
+
+#: includes/elements/widgets/class-post-slider-widget.php:38
+msgid "Post Slider"
+msgstr ""
+
+#: includes/elements/widgets/class-post-slider-widget.php:180
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/elements/widgets/class-post-slider-widget.php:214
+msgid "Content Width"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:34
+msgid "Price Table"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:53
+msgid "Price Table Content"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:62
+#: includes/elements/widgets/class-price-table-widget.php:63
+msgid "Table Name"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:72
+msgid "Do not miss the currency symbol such as $10 or $10/month."
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:82
+msgid "Item Text"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:84
+msgid "Sample Feature"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:91
+msgid "Table Content"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:121
+msgid "If you leave it empty, the button will not be shown."
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:129
+msgid "Mark it As Featured Plan?"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:143
+msgid "Table"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:192
+msgid "Table Head"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:210
+#: includes/elements/widgets/class-price-table-widget.php:351
+msgid "Separator Color"
+msgstr ""
+
+#: includes/elements/widgets/class-price-table-widget.php:373
+#: includes/elements/widgets/class-wedocs-archive-widget.php:206
+msgid "Item Gap"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:33
+#: includes/elements/widgets/class-separate-text-widget.php:56
+msgid "Separate Text"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:48
+msgid "Text Settings"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:58
+msgid "Subheading"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:75
+msgid "Border Style"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:80
+#: includes/elements/widgets/class-separate-text-widget.php:159
+msgid "Solid"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:81
+#: includes/elements/widgets/class-separate-text-widget.php:160
+msgid "Dotted"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:82
+#: includes/elements/widgets/class-separate-text-widget.php:161
+msgid "Dashed"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:83
+#: includes/elements/widgets/class-separate-text-widget.php:162
+msgid "Double"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:94
+#: includes/elements/widgets/class-separate-text-widget.php:174
+msgid "Border Width"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:117
+msgid "Text Width"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:146
+msgid "Line Settings"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:154
+msgid "Line Style"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:198
+msgid "Width"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:231
+msgid "Text"
+msgstr ""
+
+#: includes/elements/widgets/class-separate-text-widget.php:284
+msgid "Line"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:41
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:64
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:109
+msgid "Testimonials"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:73
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:260
+msgid "Name"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:81
+msgid "Position"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:89
+msgid "Avatar"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:161
+msgid "Show Quotation Marks"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:172
+msgid "Show Opening Quotation Mark"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:186
+msgid "Show Closing Quotation Mark"
+msgstr ""
+
+#: includes/elements/widgets/class-testimonial-carousel-widget.php:369
+msgid "Quotation Marks"
+msgstr ""
+
+#: includes/elements/widgets/class-typing-widget.php:40
+#: includes/elements/widgets/class-typing-widget.php:63
+msgid "Typing"
+msgstr ""
+
+#: includes/elements/widgets/class-typing-widget.php:72
+#: includes/elements/widgets/class-typing-widget.php:73
+#: includes/elements/widgets/class-typing-widget.php:126
+msgid "Static Text"
+msgstr ""
+
+#: includes/elements/widgets/class-typing-widget.php:85
+msgid "Sample Text"
+msgstr ""
+
+#: includes/elements/widgets/class-typing-widget.php:92
+#: includes/elements/widgets/class-typing-widget.php:156
+msgid "Typing Text"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-archive-widget.php:34
+msgid "weDocs Archive"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-archive-widget.php:58
+msgid "Number of Questions Per Section"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-archive-widget.php:186
+msgid "List"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-archive-widget.php:225
+msgid "Section Title"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-archive-widget.php:295
+msgid "Read More Button"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-search-widget.php:33
+#: includes/elements/widgets/class-wedocs-search-widget.php:48
+msgid "weDocs Search"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-search-widget.php:56
+msgid "Field Placeholder"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-search-widget.php:57
+msgid "Documentation Search &hellip;"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-search-widget.php:73
+msgid "Docs Dropdown"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-search-widget.php:239
+msgid "Dropdown"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-search-widget.php:581
+msgid "All Docs"
+msgstr ""
+
+#: includes/elements/widgets/class-wedocs-search-widget.php:605
+#: includes/elements/widgets/class-wedocs-search-widget.php:606
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-cart-button-widget.php:34
+msgid "Woo Cart Button"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-cart-button-widget.php:49
+msgid "WooCommerce Button"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-cart-button-widget.php:58
+msgid "Select Product"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-cart-button-widget.php:68
+msgid "Click Action"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-cart-button-widget.php:71
+msgid "Ajax"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-cart-button-widget.php:72
+msgid "Redirect"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:39
+msgid "Woo Product Carousel"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:79
+#: includes/elements/widgets/class-woo-products-widget.php:80
+msgid "Product Data Filter"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:83
+#: includes/elements/widgets/class-woo-products-widget.php:84
+msgid "All Products"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:84
+#: includes/elements/widgets/class-woo-products-widget.php:85
+msgid "Featured Products"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:85
+#: includes/elements/widgets/class-woo-products-widget.php:86
+msgid "On Sale Products"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:656
+msgid "Out of Stock!"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:691
+#: includes/elements/widgets/class-woo-products-widget.php:847
+msgid "Sale!"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-product-carousel-widget.php:756
+msgid "No Product Found"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:40
+msgid "Woo Products"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:72
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:116
+msgid "Show Featured Label?"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:117
+msgid "Once a product is set as featured product, the featured label will display on the product thumbnail."
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:128
+msgid "Show Sale Label?"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:129
+msgid "Once a product has on sale price, the sale label will display on the product thumbnail."
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:853
+msgid "Featured!"
+msgstr ""
+
+#. translators: %s: rating
+#: includes/elements/widgets/class-woo-products-widget.php:901
+#: includes/elements/widgets/class-woo-products-widget.php:936
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. translators: %s: rating
+#: includes/elements/widgets/class-woo-products-widget.php:901
+#: includes/elements/widgets/class-woo-products-widget.php:936
+msgid "out of 5"
+msgstr ""
+
+#: includes/elements/widgets/class-woo-products-widget.php:954
+msgid "No Products Found"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks-widget.php:25
+msgid "Add the global blocks widget."
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:117
+#: includes/global-blocks/class-global-blocks.php:119
+#: includes/global-blocks/class-global-blocks.php:120
+msgid "Global Blocks"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:121
+msgid "Add New"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:122
+msgid "Add New Global Block"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:123
+msgid "New Global Block"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:124
+msgid "Edit Global Block"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:125
+msgid "View Global Block"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:126
+msgid "All Global Blocks"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:127
+msgid "Search Global Blocks"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:128
+msgid "Parent Global Blocks:"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:129
+msgid "No global block found."
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:130
+msgid "No global block found in Trash."
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:136
+msgctxt "taxonomy general name"
+msgid "Block Categories"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:137
+msgctxt "taxonomy singular name"
+msgid "Block Category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:138
+msgid "Search Block Category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:139
+msgid "Popular Block Category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:140
+msgid "All Categories"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:143
+msgid "Edit Block Category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:144
+msgid "Update Block Category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:145
+msgid "Add New Block Category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:146
+msgid "New Block Category Name"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:147
+msgid "Separate block category with commas"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:148
+msgid "Add or remove block category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:149
+msgid "Choose from the most used block category"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:150
+msgid "No block category found."
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:151
+msgid "Block Categories"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:278
+msgid "Global Block Shortcode"
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:290
+msgid "Please copy following shortcode and use it anywhere you want."
+msgstr ""
+
+#: includes/global-blocks/class-global-blocks.php:337
+msgid "Usage"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: prime-addons-for-elementor.php:135
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: prime-addons-for-elementor.php:137
+#: prime-addons-for-elementor.php:157
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Requirement 3: Required version
+#: prime-addons-for-elementor.php:155
+#: prime-addons-for-elementor.php:177
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: prime-addons-for-elementor.php:179
+msgid "PHP"
+msgstr ""
